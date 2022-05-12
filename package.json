@@ -1,0 +1,27 @@
+{
+  "name": "mural",
+  "version": "1.0.0",
+  "description": "estudo backend de uma aplicação de avisos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P1P0S/mural.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P1P0S/mural/issues"
+  },
+  "homepage": "https://github.com/P1P0S/mural#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
